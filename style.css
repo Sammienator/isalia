@@ -1,0 +1,14 @@
+section{
+    height: 100%;
+}
+
+
+.brand{
+    height: 100px;
+    width: 130px;
+    margin-left: 20px;
+}
+#nav{
+    font-weight: bold;
+
+}
