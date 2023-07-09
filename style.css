@@ -8,7 +8,7 @@ h1, h2, h3, h4,  h6, form,  nav{
     font-weight: bolder;
     font-size: 40px;
 }
-span, .btn, h5, div{
+span, .btn, h5, div, li{
     font-family: 'Kaushan Script', cursive;
     font-weight: bolder;
 
